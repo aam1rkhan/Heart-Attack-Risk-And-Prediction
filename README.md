@@ -60,6 +60,7 @@ Random Forest                 70.50%
 
 
 # Power BI Dashboard
+![Screenshot 2025-03-03 170853](https://github.com/user-attachments/assets/c7acec31-19dc-467c-b690-41299af47b6a)
 
 A Power BI dashboard was created to visualize key insights from the dataset, including:
 
